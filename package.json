@@ -1,0 +1,23 @@
+{
+  "name": "phil230artwork",
+  "version": "0.0.1",
+  "description": "Where Do We Come From? What Are We? Where Are We Going?",
+  "main": "app.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@heroku.com:phil230artwork.git"
+  },
+  "keywords": [
+    "art",
+    "website"
+  ],
+  "author": "Gray Leonard",
+  "license": "CC-NC",
+  "dependencies": {
+    "express": "~4.1.0",
+    "traceroute": "0.0.3"
+  }
+}
