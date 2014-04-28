@@ -9,7 +9,7 @@ var City = geoip.City;
 var city = new City('GeoLiteCity.dat');
 
 app.set("trust proxy", "true");
-
+app.use(express.static(__dirname + '/public'));
 app.get('/', function(req, res) {
 
 });
