@@ -6,10 +6,6 @@
   "scripts": {
     "test": "none"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@heroku.com:phil230artwork.git"
-  },
   "keywords": [
     "art",
     "website"
